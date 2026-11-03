@@ -1,4 +1,5 @@
 """Aplicação Streamlit para explorar a base UN-CTS de violência sexual."""
+# [IA] ChatGPT – esqueleto inicial do app gerado a partir do rascunho de layout (Aula 21)
 
 from __future__ import annotations
 
